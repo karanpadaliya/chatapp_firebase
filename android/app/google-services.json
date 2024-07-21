@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "35455024067",
+    "project_id": "karan-practice-flutter",
+    "storage_bucket": "karan-practice-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35455024067:android:25488229dbba50bedf5b76",
+        "android_client_info": {
+          "package_name": "com.kp2106.chatapp_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdlPezuYvsOJXF6ng1risfHNI-JOaezdY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
